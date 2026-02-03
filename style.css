@@ -50,4 +50,11 @@ button:hover {
 
 h1 {
     margin-bottom: 10px;
+    text-align: center;
+}
+
+@media (max-width: 435px) {
+    img {
+        width: 350px;
+    }
 }
